@@ -1,0 +1,77 @@
+body {
+    background-image:url("https://www.bouvierkelly.com/elm212kress/wp-content/uploads/2016/11/Case-Study-Background-DanRiver-5.jpg");
+    background-size: cover;
+    border:10px solid red;
+}
+
+#heading {
+    font-family: 'Orelega One', cursive;
+    font-size:100px;
+    color:aqua;
+    text-decoration: underline pink;
+}
+
+img {
+    width: 200px;
+}
+
+#text {
+    color:salmon;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size:25px;
+}
+
+.images {
+    background-color: rgb(191, 227, 250);
+    margin-left: 250px;
+    margin-top:50px;
+    width:1000px;
+    height:300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(250, 121, 141);
+} 
+li {
+    color:mediumblue;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.footer {
+    position:fixed;
+    bottom: 0;
+    line-height:2;
+    background-color: rgb(156, 248, 183);
+    width:100%;
+    color:indigo;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    text-align:center;
+    font-weight: bolder;
+}
+.result {
+    color:aquamarine;
+    width:100%;
+    margin-top:3300px;
+    background-color: purple;
+    font-family:monospace;
+    padding:5px;
+}
+
+.result b {
+    color:yellow;
+}
+
+h5 {
+    background-color: rgb(64, 243, 64);
+    color:blue;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 50px;
+    margin-right:100px;
+}
+.images b {
+    color:red;
+}
+.result_div {
+    margin-top:140px;
+}
